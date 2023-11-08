@@ -24,5 +24,4 @@ urlpatterns = [
     path('api/',include('LittleLemonApi.urls')),
     path('auth/', include('djoser.urls')),
     path('auth/', include('djoser.urls.authtoken')),
-    path('token/login', obtain_auth_token),
 ]
