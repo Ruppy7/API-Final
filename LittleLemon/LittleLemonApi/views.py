@@ -32,7 +32,7 @@ class CartView(generics.ListCreateAPIView):
         return self.queryset.filter(user=self.request.user)
 
     def post(self, request, *args, **kwargs):
-        
+        pass
     
     def delete(self, request, *args, **kwargs):
         self.get_queryset().delete()
