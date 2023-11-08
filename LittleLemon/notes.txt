@@ -1,0 +1,25 @@
+USER NAMES
+
+SUPERUSERS
+    1.  username = admin
+        password = Lemon@admin!
+        email    = admin@littlelemon.com
+    
+Managers
+    1.  username = John
+        password = Lemon@john!
+        email    = John@littlelemon.com
+
+Delivery Crew
+    1.  username = Ron
+        password = Lemon@ron!
+        email    = ron@littlelemon.com
+    
+Users
+    1.  username = Cass
+        password = Lemon@cass!
+        email    = cass@gmail.com
+
+    2.  username = Tess
+        password = Lemon@tess!
+        email    = tess@gmail.com
